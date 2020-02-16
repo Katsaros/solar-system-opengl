@@ -1,0 +1,11 @@
+﻿  visuals.cpp
+visuals.cpp(168): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+visuals.cpp(169): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+visuals.cpp(356): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  3 of 154 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab2.vcxproj -> C:\Users\Γιάννης Κατσαρός\Desktop\lab02\Ergasia Planites\Release\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Γιάννης Κατσαρός\Desktop\lab02\Ergasia Planites\Release\Lab2.pdb (Full PDB)
